@@ -2,8 +2,8 @@
 Model that detects distracted driver while driving
 
 ![MKT](https://img.shields.io/badge/version-v0.1-blue.svg)
-![MKT](https://img.shields.io/badge/language-Python-orange.svg)
-![MKT](https://img.shields.io/badge/platform-Jupyter-lightgrey.svg)
+![MKT](https://img.shields.io/badge/language-Python-green.svg)
+![MKT](https://img.shields.io/badge/platform-GoogleColab-orange.svg)
 
 
 - The objective of this task is to classify each driver's behavior. 
