@@ -36,7 +36,7 @@ Implemented Convolutional Neural Network(CNN) architecture in keras.
 - Made the same data processing for test data.
 - Predicting the output using the model.
 
-##Save the Model & Weights:
+## Save the Model & Weights:
 
 Saving the model and the weights for transfer learning or model execution later
 
