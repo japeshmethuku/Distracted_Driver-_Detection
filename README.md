@@ -10,7 +10,16 @@ Model that detects distracted driver while driving
 
 - The dataset used is from the Kraggle competition:            https://www.kaggle.com/c/state-farm-distracted-driver-detection.
   - I have used only 600 images per class i.e 6000 images in train.
-
+- c0: safe driving
+- c1: texting - right
+- c2: talking on the phone - right
+- c3: texting - left
+- c4: talking on the phone - left
+- c5: operating the radio
+- c6: drinking
+- c7: reaching behind
+- c8: hair and makeup
+- c9: talking to passenger
 
 ![alt text](https://github.com/shyamprasad369/Distracted_Driver-_Detection/blob/master/data.png)
 
